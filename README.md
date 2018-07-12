@@ -11,8 +11,11 @@ source of data :https://www.kaggle.com/paultimothymooney/kermany2018/home
 Categories :
 
 1.Choroidal neovascularization (CNV) : with neovascular membrane and associated subretinal fluid.
+
 2.Diabetic macular edema (DME) with retinal-thickening-associated intraretinal fluid.
+
 3.Multiple Drusen present in early AMD. 
+
 4.Normal retina with preserved foveal contour and absence of any retinal fluid/edema.
 
 I have used VGG16 pre trained model
